@@ -17,13 +17,13 @@ Program a build base on this repository to a STM32 nucleo board (I tested this o
 - mouse_port_right_button(D8)    Amiga Joystick pin 9
 
 
-game_port_forward(PC_8)       - Amiga Joystick pin 1
-game_port_back(PC_12)         - Amiga Joystick pin 2
-game_port_left(PC_10)         - Amiga Joystick pin 3
-game_port_right(PC_11)        - Amiga Joystick pin 4
-game_port_left_button(PC_6)   - Amiga Joystick pin 6
-GND                           - Amiga joystick pin 8
-game_port_right_button(PC_5)  - Amiga Joystick pin 9
+- game_port_forward(PC_8)        Amiga Joystick pin 1
+- game_port_back(PC_12)          Amiga Joystick pin 2
+- game_port_left(PC_10)          Amiga Joystick pin 3
+- game_port_right(PC_11)         Amiga Joystick pin 4
+- game_port_left_button(PC_6)    Amiga Joystick pin 6
+- GND                            Amiga joystick pin 8
+- game_port_right_button(PC_5)   Amiga Joystick pin 9
 
 You will also need to attach a USB socket to the nuclea board so you can use the Nucleo's usb OTG support.
 
