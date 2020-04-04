@@ -31,4 +31,5 @@ You will also need to attach a USB socket to the nuclea board so you can use the
 - (2) PA11 : Data-
 - (3) PA12 : Data+
 - (4) GND  : GND
-According to the usb spec it is required to attach a 15k ohm resistor between D-/+ and ground but it appears the USB host works fine without this.
+- 
+- According to the usb spec it is required to attach a 15k ohm resistor between D-/+ and ground but it appears the USB host works fine without this.
