@@ -4,7 +4,7 @@ This project it's been forked from Louise Newberry's project ( https://os.mbed.c
 
 The aim it's to give it more visibility and a good cleanup and documentation. 
 
-##Use
+Use
 
 Program a build base on this repository to a STM32 nucleo board (I tested this on a NUCLEO STM32F411 board). You will then need connect the Nucleo board to your computers joystick and mouse ports as follows (if you only use a mouse you won't need a joystick lead :) ). If you use a steam controller the thumb stick and left pad are mapped to the Amiga's joystick port and the right pad and front trigger buttons are mapped to the mouse.
 
